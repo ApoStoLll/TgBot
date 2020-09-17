@@ -21,7 +21,7 @@ def create_schedule():
         Lesson( name = 'QAQC (лекция) | Ткач В.М', week = 1, day = '3', time = "12:10", zoom = "https://bth.zoom.us/j/62733592448"), 
         Lesson( name = 'Мат.прога | Хмельницкий ', week = 3, day = '3', time = "14:05", zoom = "В группе мат.прога (там даже ссылки на группу нет)"),
 
-        Lesson( name = 'Теория сложности (лекция) | Фес Андрей', week = 3, day = '4', time = "22:44", zoom = "https://us04web.zoom.us/j/3033669459?pwd=N0ovVUV3dTQ4N2xmaDBpTTdCQ3BBUT09"), 
+        Lesson( name = 'Теория сложности (лекция) | Фес Андрей', week = 3, day = '4', time = "08:20", zoom = "https://us04web.zoom.us/j/3033669459?pwd=N0ovVUV3dTQ4N2xmaDBpTTdCQ3BBUT09"), 
         Lesson( name = 'Теор.вер (практика) | Нищенко И.И', week = 3, day = '4', time = "10:15", zoom = "https://us02web.zoom.us/j/82678565122"), 
         Lesson( name = 'СРОМ 1 (лекция) | Завадская Л.О.', week = 3, day = '4', time = "12:10", zoom = "https://us04web.zoom.us/j/3908947683?pwd=UWhmb1B0NDZSU3dZc3ZVL0RaSUJqdz09"), 
 
